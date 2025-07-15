@@ -1,6 +1,7 @@
 # miniquizapp
 Mini Quiz App using Streamlit to predict Age Generation Classification based on user's answer selection.
-<img width="1363" height="724" alt="image" src="https://github.com/user-attachments/assets/3d77fc42-c716-4fa1-8041-73e799bf23f9" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/8a254d0c-fb6b-47a4-b0bc-aac41f2ff424" />
+
 
 To read the code in app.py and run it with Streamlit, follow these steps:
 
