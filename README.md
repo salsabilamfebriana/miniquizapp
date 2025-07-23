@@ -1,6 +1,8 @@
 # miniquizapp
 Mini Quiz App using Streamlit to predict Age Generation Classification based on user's answer selection.
-https://miniquizapp-prediksigenerasi.streamlit.app/
+
+Deployed Version : https://miniquizapp-prediksigenerasi.streamlit.app/
+
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/8a254d0c-fb6b-47a4-b0bc-aac41f2ff424" />
 
 
